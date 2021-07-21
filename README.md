@@ -1,16 +1,47 @@
-### Hi there 👋
+## Olá Mundo! Meu nome é Marco Gouveia! :earth_americas:
 
-<!--
-**MarcoGouveia/MarcoGouveia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:computer: Desenvolvedor Front-End!
+:house_with_garden: Brasileiro, Pernambucano e Cabense.
+
+## Sobre
+
+<p>
+  Tenho 19 anos e trabalho atualmente como desenvolvedor Web na <a style="color=#24BAAF" href="https://gridestrategia.com.br">GRID</a>;
+<p/>
+<p>
+  Cursando Faculdade de Ánalise e Desenvolvimentos de Sistema pela Estácio
+<p/>
+ 
+
+## Skills
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+
+
+## Github Information :chart_with_upwards_trend: 
+ 
+![marcogouveia](https://github-readme-stats.vercel.app/api?username=marcogouveia&theme=dark)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcogouveia&langs_count=4&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+## :earth_americas: &nbsp;Onde me encontrar:
+
+<p>
+  <a href="mailto:marcogouveia2001@outlook.com">
+    <img src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white&color=red" />
+  <a/>
+  <a href="https://www.linkedin.com/in/marco-gouveia-8a4bb9197/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a/>
+  <a href="https://www.instagram.com/marcorsd/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a/>
+    <a href="https://twitter.com/Marcorsd/">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a/>
+   
+   
+<p/>
