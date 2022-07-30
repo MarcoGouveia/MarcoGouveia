@@ -8,10 +8,10 @@
 ## Sobre
 
 <p>
-  Tenho 19 anos e trabalho atualmente como desenvolvedor Web na <a style="color=#24BAAF" href="https://gridestrategia.com.br">GRID</a>;
+  Tenho 20 anos e trabalho atualmente como desenvolvedor Web na <a style="color=#24BAAF" href="https://gridestrategia.com.br">GRID</a>;
 <p/>
 <p>
-  Cursando Faculdade de Ánalise e Desenvolvimentos de Sistema pela Estácio
+  Formado em Ánalise e Desenvolvimentos de Sistema
 <p/>
  
 
@@ -21,6 +21,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="React"/></code>
 
 
 ## Github Information :chart_with_upwards_trend: 
