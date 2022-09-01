@@ -2,7 +2,7 @@
 
 
 
-:computer: Desenvolvedor Front-End!
+:computer: Desenvolvedor Front-End! em rumo ao full-stack
 :house_with_garden: Brasileiro, Pernambucano e Cabense.
 
 ## Sobre
