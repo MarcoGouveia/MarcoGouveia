@@ -24,9 +24,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" alt="React"/></code>
 
 
-## Github Information :chart_with_upwards_trend: 
- 
-![marcogouveia](https://github-readme-stats.vercel.app/api?username=marcogouveia&theme=dark)         [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcogouveia&langs_count=4&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :earth_americas: &nbsp;Onde me encontrar:
 
