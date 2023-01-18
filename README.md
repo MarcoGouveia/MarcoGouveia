@@ -8,7 +8,7 @@
 ## Sobre
 
 <p>
-  Tenho 20 anos e trabalho atualmente como desenvolvedor Web na <a style="color=#24BAAF" href="https://gridestrategia.com.br">GRID</a>;
+  Tenho 21 anos e trabalho atualmente como desenvolvedor Web na <a style="color=#24BAAF" href="https://gridestrategia.com.br">GRID</a>;
 <p/>
 <p>
   Formado em Ánalise e Desenvolvimentos de Sistema
